@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name lsm9ds1)(type Legacy)(uri ${KIPRJMOD}/../kicad-modules/libs/lsm9ds1.lib)(options "")(descr ""))
+  (lib (name ESP32-footprints-Shem-Lib)(type Legacy)(uri ${KIPRJMOD}/../kicad-modules/libs/ESP32-footprints-Shem-Lib.lib)(options "")(descr ""))
+  (lib (name ESP32)(type Legacy)(uri ${KIPRJMOD}/../kicad-modules/libs/ESP32.lib)(options "")(descr ""))
+  (lib (name ap7361c-33)(type Legacy)(uri ${KIPRJMOD}/../kicad-modules/libs/ap7361c-33.lib)(options "")(descr ""))
+  (lib (name MCP73831)(type Legacy)(uri ${KIPRJMOD}/../kicad-modules/libs/MCP73831.lib)(options "")(descr ""))
+  (lib (name custom_power)(type Legacy)(uri /home/afc/devel/bike/kicad-modules/libs/custom_power.lib)(options "")(descr ""))
+  (lib (name ctrl-rescue)(type Legacy)(uri ${KIPRJMOD}/ctrl-rescue.lib)(options "")(descr ""))
+)
